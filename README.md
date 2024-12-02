@@ -1,5 +1,7 @@
 # Linux Desktop LLM Apps
 
+![alt text](images/banner.webp)
+
 *Note: organisation, formatting will come in time. There's probably a better list out there for this. These are just my cliff notes!. Note 2: information good at time of compilation but any time after...*
 
 # Local LLMs
@@ -31,7 +33,7 @@ GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial 
 
 ---
 
-### [Ollana](https://ollama.com/)
+### [Ollama](https://ollama.com/)
 
 "Run Llama 3.2, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own."
 
