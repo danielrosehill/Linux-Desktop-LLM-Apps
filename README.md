@@ -31,6 +31,11 @@ GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial 
 
 ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey)
 
+### [Chatbox AI](https://chatboxai.app/en)
+
+Chatbox AI is an AI client application and smart assistant. Compatible with many cutting-edge AI models and APIs. Available on Windows, MacOS, Android, iOS, Web, and Linux.
+
+
 ---
 
 ### [Ollama](https://ollama.com/)
