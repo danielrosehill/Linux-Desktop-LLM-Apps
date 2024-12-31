@@ -2,9 +2,13 @@
 
 ![alt text](images/banner.webp)
 
-*Note: Organization and formatting will improve over time. This list is a collection of personal notes. Note that information was correct at the time of compilation.*
+ This repository is a small gathering of different large language model frontends that are accessible for Linux desktop users. 
 
-## Local LLMs
+ Given that self hosted tools which can run on Linux servers are a much larger list, but which also often serve a different purpose, this list is primarily focused on desktop clients. 
+
+ Exciting new LLM apps are being developed at a papid pace. If you're developing one and would like to add it to the list, please just drop me an email or open a pull request  
+
+## Local LLM Frontends
 
 *GUIs and CLIs for running large language models (LLMs) on Linux.*
 
@@ -14,10 +18,16 @@
 
 #### [Anything LLM](https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script)
 *Desktop application for working with LLMs.*  
+
+An interesting front end which covers a lot of different bases, including interaction with multiple cloud model providers, built-in RAG, and some voice features.
+
 ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey)  [![View Website](https://img.shields.io/badge/View-Website-blue)](https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script)
 
 #### [LM Studio](https://lmstudio.ai)
 *Discover, download, and run local LLMs.*  
+
+I highly recommend LM Studio as an excellent starting point for anyone looking at hosting models locally on Linux for the first time. A well rounded and versatile tool. 
+
  ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey) [![View Website](https://img.shields.io/badge/View-Website-blue)](https://lmstudio.ai)
 
 #### [gpt4all](https://github.com/nomic-ai/gpt4all)
@@ -26,6 +36,8 @@
 [![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/nomic-ai/gpt4all)
 
 #### [Jan](https://jan.ai/)
+
+ 
    ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey) [![View Website](https://img.shields.io/badge/View-Website-blue)](https://jan.ai/)
 
 #### [Chatbox AI](https://chatboxai.app/en)
@@ -46,23 +58,29 @@
 ### CLI & Core
 
 #### [Ollama](https://ollama.com/)
-*"Run Llama 3.2, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own."*
-   [![View Website](https://img.shields.io/badge/View-Website-blue)](https://ollama.com/)
+*"Run Llama 3.2, Phi 3, Mistral, Gemma 2, and other models. Customize and create your own."* 
+
+[![View Website](https://img.shields.io/badge/View-Website-blue)](https://ollama.com/)
 
 #### [Alpaca](https://github.com/Jeffser/Alpaca)
-   [![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/Jeffser/Alpaca)
+[![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/Jeffser/Alpaca)
 
 #### [Chatbox](https://github.com/Bin-Huang/chatbox)
-   [![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/Bin-Huang/chatbox)
+[![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/Bin-Huang/chatbox)
 
 #### [shellgpt](https://github.com/jiacai2050/shellgpt)
-   [![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/jiacai2050/shellgpt)
+[![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/jiacai2050/shellgpt)
 
 ---
 
-### Voice
+### Voice-Centric Apps
+
+Large language model front ends which emphasize voice features such as seamless speech-to-text, text-to-speech or speech-to-speech/realtime conversation.
 
 #### [PyGPT](https://pygpt.net/)
+
+Very interesting project which has put emphasis on multimodal interaction, an area where many local front ends have struggled to keep up. 
+
    [![View Website](https://img.shields.io/badge/View-Website-blue)](https://pygpt.net/)
  
 ---
