@@ -35,6 +35,12 @@ GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial 
 
 Chatbox AI is an AI client application and smart assistant. Compatible with many cutting-edge AI models and APIs. Available on Windows, MacOS, Android, iOS, Web, and Linux.
 
+### [Msty](https://msty.app/)
+
+Support for both remote and local models, and  A good selection of download options for Linux with separate app images for. AMD GPUs and NVIDIA.
+
+Confirmed running perfectly on Open Susie Tumbleweed on 01/01/25.
+
 
 ---
 
