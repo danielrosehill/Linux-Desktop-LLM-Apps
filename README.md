@@ -13,27 +13,32 @@
 ### GUIs
 
 #### [Anything LLM](https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script)
-*Desktop application for working with LLMs.*
-    ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey)  [![View Website](https://img.shields.io/badge/View-Website-blue)](https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script)
+*Desktop application for working with LLMs.*  
+![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey)  [![View Website](https://img.shields.io/badge/View-Website-blue)](https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script)
 
 #### [LM Studio](https://lmstudio.ai)
-*Discover, download, and run local LLMs.*
-    ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey) [![View Website](https://img.shields.io/badge/View-Website-blue)](https://lmstudio.ai)
+*Discover, download, and run local LLMs.*  
+ ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey) [![View Website](https://img.shields.io/badge/View-Website-blue)](https://lmstudio.ai)
 
 #### [gpt4all](https://github.com/nomic-ai/gpt4all)
 *Run Local LLMs on Any Device. Open-source and available for commercial use.*
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-FFDD00?logo=ubuntu&logoColor=white) [![Get it on Flathub](https://flathub.org/assets/badges/flathub-badge.svg)](https://flathub.org/apps/io.gpt4all.gpt4all) [![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/nomic-ai/gpt4all)
+
+[![View Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/nomic-ai/gpt4all)
 
 #### [Jan](https://jan.ai/)
    ![AppImage](https://img.shields.io/badge/package-AppImage-lightgrey) [![View Website](https://img.shields.io/badge/View-Website-blue)](https://jan.ai/)
 
 #### [Chatbox AI](https://chatboxai.app/en)
 *AI client application and smart assistant, compatible with many cutting-edge AI models and APIs. Available on multiple platforms, including Linux.*
+
+
    [![View Website](https://img.shields.io/badge/View-Website-blue)](https://chatboxai.app/en)
 
 #### [Msty](https://msty.app/)
 *Supports remote and local models with a variety of download options for Linux, including separate AppImages for AMD and NVIDIA GPUs.*
 *Confirmed running perfectly on OpenSUSE Tumbleweed on 01/01/25.*
+
+
    [![View Website](https://img.shields.io/badge/View-Website-blue)](https://msty.app/)
 
 ---
